@@ -1,1 +1,27 @@
+body {
+  font-size: 12pt ;
+  font-family: Verdana, Geneva, Ariel, Helvetica, sans-serif;
+color: black;
+  line-height: 14pt;
+  padding-left: 5pt;
+  padding-right: 5pt;
+  padding-top: 5pt;
+  background-color: #BFA002;
+}
 
+h1{
+  font: 14 Ariel, Geneva, Helvetica, sans-serif;
+  font-weight: bold;
+  color: red;
+  line-height: 18pt;
+}
+
+h2{
+  font-weight: bold;
+  color: #0239BF;
+}
+
+img {
+  padding: 4pt;
+  float: centre;
+}
