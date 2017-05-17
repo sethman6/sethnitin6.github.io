@@ -10,13 +10,14 @@ color: black;
 }
 
 h1{
-  font: 10 Ariel, Geneva, Helvetica, sans-serif;
+  font: 12 Ariel, Geneva, Helvetica, sans-serif;
   font-weight: bold;
   color: red;
   line-height: 18pt;
 }
 
 h2{
+  font: 11 Times New Roman, Helvetica, sans-serif;
   font-weight: bold;
   color: #0239BF;
 }
@@ -25,3 +26,10 @@ img {
   padding: 4pt;
   float: right;
 }
+footer {
+  font-size: 10;
+  font-style: italics;
+  line-height: 12pts;
+  text-align: centre;
+  padding-top; 25;
+  )
