@@ -3,14 +3,14 @@ body {
   font-family: Verdana, Geneva, Ariel, Helvetica, sans-serif;
 color: black;
   line-height: 14pt;
-  padding-left: 5pt;
-  padding-right: 5pt;
-  padding-top: 5pt;
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
   background-color: #BFA002;
 }
 
 h1{
-  font: 14 Ariel, Geneva, Helvetica, sans-serif;
+  font: 10 Ariel, Geneva, Helvetica, sans-serif;
   font-weight: bold;
   color: red;
   line-height: 18pt;
@@ -23,5 +23,5 @@ h2{
 
 img {
   padding: 4pt;
-  float: centre;
+  float: right;
 }
