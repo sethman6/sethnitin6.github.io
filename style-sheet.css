@@ -39,3 +39,7 @@ display {
   border-style : solid;
   border-color : red;
   }
+float {
+    float: right;
+    margin: 0 0 10px 10px;
+}
