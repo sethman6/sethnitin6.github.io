@@ -33,3 +33,9 @@ footer {
   text-align: centre;
   padding-top; 25;
   )
+display {
+  display : block;
+  border-width : 5px;
+  border-style : solid;
+  border-color : red;
+  }
