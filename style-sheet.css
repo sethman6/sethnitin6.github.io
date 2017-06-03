@@ -1,0 +1,45 @@
+body {
+  font-size: 12pt ;
+  font-family: Verdana, Geneva, Ariel, Helvetica, sans-serif;
+color: black;
+  line-height: 14pt;
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+  background-color: #14eeda;
+}
+
+h1{
+  font: 12 Ariel, Geneva, Helvetica, sans-serif;
+  font-weight: bold;
+  color: red;
+  line-height: 18pt;
+}
+
+h2{
+  font: 11 Times New Roman, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #0239BF;
+}
+
+img {
+  padding: 4pt;
+  float: right;
+}
+footer {
+  font-size: 10;
+  font-style: italics;
+  line-height: 12pts;
+  text-align: centre;
+  padding-top; 25;
+  )
+display {
+  display : block;
+  border-width : 5px;
+  border-style : solid;
+  border-color : red;
+  }
+float {
+    float: right;
+    margin: 0 0 10px 10px;
+}
